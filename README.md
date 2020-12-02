@@ -37,7 +37,7 @@ It will return a JSON object.
 	      
 `loop` Loop count on how many times function is run. Currently hardcoded, to be changed to pass as argument.
    
-   `compute` Server side function name and parameter as a string. 
+   `compute` Server side function name and parameter as a string
   
    `time` Execution time on the server for the specific demo function and loop count.
    
