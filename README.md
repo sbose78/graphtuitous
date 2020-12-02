@@ -39,6 +39,6 @@ It will return a JSON object.
    
    `compute` Server side function name and parameter as a string. 
   
-   `time` Execution time on the server for the specific demo function and loop count.
+   `time` Execution time on the server for the specific demo function and loop count
    
 
